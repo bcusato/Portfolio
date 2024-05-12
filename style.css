@@ -283,6 +283,8 @@ section {
 .about-containers,
 .about-details-container {
     display: flex;
+    margin-right: 1rem;
+    margin-left: 1rem;
 }
 
 .about-pic {
